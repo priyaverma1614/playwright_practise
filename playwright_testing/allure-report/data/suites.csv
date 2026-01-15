@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Jan 12 13:14:36 IST 2026","Mon Jan 12 13:14:48 IST 2026","12362","","playwright_test","","","","test_google_search[firefox]",""
+"passed","Mon Jan 12 13:14:24 IST 2026","Mon Jan 12 13:14:34 IST 2026","9981","","playwright_test","","","","test_google_search[chromium]",""
+"passed","Mon Jan 12 13:14:49 IST 2026","Mon Jan 12 13:14:50 IST 2026","1484","","playwright_test","","","","test_bing_search",""

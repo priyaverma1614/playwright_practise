@@ -1,0 +1,14 @@
+import json
+
+# Data to write
+data = {
+    "name": "Alice",
+    "age": 25,
+    "skills": ["Python", "Data Analysis", "Machine Learning"]
+}
+
+# Writing JSON to a file
+with open("data.json", "w") as file:
+    json.dump(data, file, indent=4)
+
+print("JSON data written successfully!")
